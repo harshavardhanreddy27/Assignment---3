@@ -22,3 +22,5 @@ This code provides a basic structure for managing employee data, calculating ave
 ### Question - 2
 
 Creates a random vector (`random_vector`) of size 20 with floats in the range 1-20 and reshapes the random vector into a 4x5 array (`Array`).Determines the maximum values in each row using `numpy.max` with `axis=1`, storing them in `max_values` and replaces the maximum values in each row of the array with 0 using boolean indexing.Displays the modified array where max values in each row are replaced with 0.
+
+### https://drive.google.com/file/d/1k_NUDaSO383KIUhP1F8jTnvPgyprx3gM/view?usp=share_link
